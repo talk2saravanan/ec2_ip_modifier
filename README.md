@@ -67,6 +67,9 @@ Ip Range[192.168.2.0/24 --> 192.143.2.1/32 ]:SUCCESS
 OVERALL SUCCESS
 
 
+Here is the google doc with live testing by taking screenshot 
+[ https://docs.google.com/document/d/1_7jC5up4W93fm6dfasVk4yV44TpyhbKHSvEegLTXp28/edit?usp=sharing ]
+
 Debug mode
 
 D:\saran\perl>perl ec2_updater.pl  --access_key="AKIAIFTWUCTKHN32JOEA" --secret_
