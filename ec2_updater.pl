@@ -11,7 +11,8 @@ sub help {
 	print <<EOF;
 	
 	Please install "VM::EC2" for the first time.
-	$>cpanm install "VM::EC2";
+	$>perl -MCPAN -e "install VM::EC2"
+
 
 	Reference : http://search.cpan.org/~lds/VM-EC2-1.23/lib/VM/EC2/SecurityGroup.pm
 
