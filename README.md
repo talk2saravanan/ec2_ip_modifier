@@ -4,6 +4,9 @@ ec2_ip_modifier
 
   ***Please install "VM::EC2" for the first time.***
 	   $>perl -MCPAN -e "install VM::EC2"
+	   
+	   During installation.There will be a prompt to enter "access_key" and "secret_key".
+	   Please press enter to skip it.
 
 	Reference : http://search.cpan.org/~lds/VM-EC2-1.23/lib/VM/EC2/SecurityGroup.pm
 
