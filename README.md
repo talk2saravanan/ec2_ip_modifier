@@ -59,6 +59,8 @@ Debug mode
 $>perl check_ec2_ip.pl --access_key="AKIAIFTWUCTKHN32JOEA" --secret_
 key="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" --security_group_name=default_sara2
  -region=us-east-1 --ip_address=192.168.1.0 --debug
+ 
+ 
 Group default_sara2 is not available:FAILURE
 Available Groups:
  {default}_test2
